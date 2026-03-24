@@ -1,0 +1,98 @@
+{
+    "file": "chats\\Chat_1\\doc_1_extracted.txt",
+    "pdf": "chats\\Chat_1\\doc_1.pdf",
+    "all_docs": [
+        "chats\\Chat_1\\doc_1_extracted.txt"
+    ],
+    "all_pdfs": [
+        "chats\\Chat_1\\doc_1.pdf"
+    ],
+    "all_pdf_names": [
+        "Termination kit supply.pdf"
+    ],
+    "messages": [
+        {
+            "role": "user",
+            "content": "order value "
+        },
+        {
+            "role": "assistant",
+            "content": "Order Value<br>.<br>Drawings for submission for approval should be submitted within 15 days of the Notice to Proceed mail."
+        },
+        {
+            "role": "user",
+            "content": "order value "
+        },
+        {
+            "role": "assistant",
+            "content": "No matching heading. Keywords: order value, payment terms, warranty, delivery, taxes"
+        },
+        {
+            "role": "user",
+            "content": "order value"
+        },
+        {
+            "role": "assistant",
+            "content": "No matching heading. Keywords: <span class='highlight'>order value</span>, payment terms, warranty, delivery, taxes"
+        },
+        {
+            "role": "user",
+            "content": "ORDER VALUE "
+        },
+        {
+            "role": "assistant",
+            "content": "4. Order Value:"
+        },
+        {
+            "role": "user",
+            "content": "order value"
+        },
+        {
+            "role": "assistant",
+            "content": "4. <span class='highlight'>Order Value</span>:"
+        },
+        {
+            "role": "user",
+            "content": "order value "
+        },
+        {
+            "role": "assistant",
+            "content": "Order Value:<br>4.1 The total value for the above-mentioned scope of supply and deliverables under this Order shall be INR<br>67,73,200/-(Rupees Sixty-seven Lakh Seventy-Three Thousand Two Hundred Only) (hereinafter referred to as<br>\"Order Value\"). The above <span class='highlight'>Order Value </span>inclusive Goods and Service Tax (GST).  The <span class='highlight'>Order Value </span>is inclusive of<br>Goods and Services Tax (GST).<br>4.2 The <span class='highlight'>Order Value </span>is based on basic Unit Price as mentioned hereof, which shall remain firm for the entire<br>period during which the Material(s) are supplied and the scope of supply and deliverables under this Order are<br>completed / performed. No escalation on any account shall be permitted for the aforesaid period or till the end of<br>the extended period, if any."
+        },
+        {
+            "role": "user",
+            "content": "force majeure"
+        },
+        {
+            "role": "assistant",
+            "content": "<span class='highlight'>Force Majeure</span>: -<br>22.1 <span class='highlight'>Force Majeure</span> means an event or circumstance or combination of events or circumstances beyond the direct<br>or indirect control of the party affected (the \"Affected Party\") that: (i) is not attributable to the other party; (ii)<br>could not be reasonably foreseen or prevented even upon the exercise of due diligence and good industry<br>practices;  including but not limited to:<br>22.1.1 act of God, including, but not limited to, earthquake, volcanic eruption, landslide, flood, cyclone, typhoon,<br>tornado, or exceptionally adverse weather conditions which are in excess of the statistical measures for the last<br>thirty (30) years;<br>22.1.2 war (whether declared or undeclared), invasion, armed conflict or act of foreign enemy, blockade,<br>embargo, revolution, riot, insurrection, insurgency terrorist or military action.<br>22.1.3 radioactive contamination or ionizing radiation originating from a source in India or resulting from any other<br>event of <span class='highlight'>Force Majeure</span> mentioned above, excluding circumstances where the source or cause of contamination or<br>radiation is brought or has been brought into or near the site by the Affected Party or those employed or<br>engaged by the Affected Party; or<br>22.1.4 Industry wide strikes and labour disturbances, having a nationwide impact in India.<br>22.2 <span class='highlight'>Force Majeure</span> shall not include (i) any event or circumstance which is within the reasonable control of the<br>Parties and (ii) the following conditions, except to the extent that they are consequences of an event of Force<br>Majeure:<br>22.2.1 Unavailability, late delivery, or changes in cost of the machinery, equipment, materials, spare parts etc. for<br>the execution of the Order.<br>22.2.2 Delay in the performance of the sub-suppliers, subcontractors, representatives or agents<br>22.2.3 Non-performance resulting from normal wear and tear typically experienced in transmission materials and<br>equipment.<br>22.2.4 Strikes or labour disturbance at the site of the Supplier.<br>22.2.5 Insufficiency of finances or funds with the Supplier, and<br>Registered & Corporate Office: Unit No101, First Floor, Windsor, Village Kole Kalyan Off CST Road, Vidyanagari<br>Marg, Santacruz (East), Mumbai, Maharashtra-400098, India | Ph: +91 70284 93885 CIN:<br>U35100MH2024PTC436016 Email:complianceofficer@indigrid.co.in | www.indigrid.co.in<br>Page 8 of 12<br>Rajasthan BESS Private Limited <br> <br> Maharashtra  <br>22.2.6 Non-performance caused by, or connected with, the Affected Partys negligence or<br>22.2.7 Intentional acts, errors or omissions, failure t"
+        },
+        {
+            "role": "user",
+            "content": "force majeure"
+        },
+        {
+            "role": "assistant",
+            "content": "<span class='highlight'>Force Majeure</span>: -<br>22.1 <span class='highlight'>Force Majeure</span> means an event or circumstance or combination of events or circumstances beyond the direct<br>or indirect control of the party affected (the \"Affected Party\") that: (i) is not attributable to the other party; (ii)<br>could not be reasonably foreseen or prevented even upon the exercise of due diligence and good industry<br>practices;  including but not limited to:<br>22.1.1 act of God, including, but not limited to, earthquake, volcanic eruption, landslide, flood, cyclone, typhoon,<br>tornado, or exceptionally adverse weather conditions which are in excess of the statistical measures for the last<br>thirty (30) years;<br>22.1.2 war (whether declared or undeclared), invasion, armed conflict or act of foreign enemy, blockade,<br>embargo, revolution, riot, insurrection, insurgency terrorist or military action.<br>22.1.3 radioactive contamination or ionizing radiation originating from a source in India or resulting from any other<br>event of <span class='highlight'>Force Majeure</span> mentioned above, excluding circumstances where the source or cause of contamination or<br>radiation is brought or has been brought into or near the site by the Affected Party or those employed or<br>engaged by the Affected Party; or<br>22.1.4 Industry wide strikes and labour disturbances, having a nationwide impact in India.<br>22.2 <span class='highlight'>Force Majeure</span> shall not include (i) any event or circumstance which is within the reasonable control of the<br>Parties and (ii) the following conditions, except to the extent that they are consequences of an event of Force<br>Majeure:<br>22.2.1 Unavailability, late delivery, or changes in cost of the machinery, equipment, materials, spare parts etc. for<br>the execution of the Order.<br>22.2.2 Delay in the performance of the sub-suppliers, subcontractors, representatives or agents<br>22.2.3 Non-performance resulting from normal wear and tear typically experienced in transmission materials and<br>equipment.<br>22.2.4 Strikes or labour disturbance at the site of the Supplier.<br>22.2.5 Insufficiency of finances or funds with the Supplier, and<br>Registered & Corporate Office: Unit No101, First Floor, Windsor, Village Kole Kalyan Off CST Road, Vidyanagari<br>Marg, Santacruz (East), Mumbai, Maharashtra-400098, India | Ph: +91 70284 93885 CIN:<br>U35100MH2024PTC436016 Email:complianceofficer@indigrid.co.in | www.indigrid.co.in<br>Page 8 of 12<br>Rajasthan BESS Private Limited <br> <br> Maharashtra  <br>22.2.6 Non-performance caused by, or connected with, the Affected Partys negligence or<br>22.2.7 Intentional acts, errors or omissions, failure to comply with applicable law and breach of, or default under<br>this Order.<br>22.2.8 Notwithstanding anything to the contrary, Parties acknowledge that they are aware of all Applicable Laws<br>resulting from and relating to COVID-19. Accordingly, in addition to agreeing to comply with all such Applicable<br>Laws, they shall not be entitled to claim COVID-19 as preventing, affecting or delaying the performance of their<br>respective obligations hereunder unless such Applicable Laws are more onerous than the Applicable Laws as on<br>date of this Order. Further, in the event of imposition of more onerous Applicable Laws or than those existing as<br>on date of this Order, which prevents the Parties from carrying out their obligations as agreed herein, Affected<br>Party shall be entitled to claim COVID-19 as preventing, affecting or delaying the performance of their respective<br>obligations hereunder.<br>22.3 Effect of <span class='highlight'>Force Majeure</span> Event<br>22.3.1 Neither party shall be considered to be in breach of its obligations under the Order To the extent that<br>performance of such obligation is prevented by any circumstances of <span class='highlight'>Force Majeure</span>, which arises after the<br>Effective Date of the Order, provided that notice to this effect (as mentioned in the following paragraph) is given<br>to the other Party, as soon as possible and in no event beyond the time period mentioned in the following<br>paragraph. Each Party shall be responsible for the respective costs incurred by such Party as a result of or in<br>relation to the occurrence of an event of <span class='highlight'>Force Majeure</span> or in respect of the actions to be taken by the Affected<br>Party in respect thereof.<br>22.4 In case the Supplier wants to claim the occurrence of <span class='highlight'>Force Majeure</span>, the party shall send a notice within 7<br>seven days from the occurrence of the said event and once the said event ceases shall submit all the relevant<br>documents and evidences (duly certified by the relevant Government departments and / or government authorities)<br>which proves and establishes the occurrence of such event of the <span class='highlight'>Force Majeure</span>.  Notwithstanding anything<br>contained in this Clause, in case the relief under this clause is claimed by the Supplier, on the basis of which<br>Buyer claims relief with competent authority under Transmission Service Agreement between the Buyer and its<br>beneficiaries, however the same is rejected either fully or in part by the competent authority then Supplier will<br>not be entitled to the relief under this Clause to the extent it is rejected/denied. The parties agree to put in best<br>efforts, jointly while seeking relief with the Competent Authority.<br>22.5 Affected Party shall resume its obligations under the Order, as soon as such <span class='highlight'>Force Majeure</span> event ceases to<br>exist.<br>22.6 The Delivery Schedule may be extended by a period of time not more than the period for which of<br>interruption caused by an event of <span class='highlight'>Force Majeure</span>. However, if the <span class='highlight'>Force Majeure</span> continues for a prolonged<br>period, then the Buyer shall have the right to terminate this Order in accordance with the terms hereof and make<br>payment to the Supplier for the Material(s) supplied in accordance with this Order and to the satisfaction of the<br>Buyer, as on the date of such termination.<br>22.7 Neither Party shall claim compensation for the loss thus incurred or any compensation from the other Party<br>on account of an event of <span class='highlight'>Force Majeure</span>."
+        },
+        {
+            "role": "user",
+            "content": "suspension "
+        },
+        {
+            "role": "assistant",
+            "content": "Suspension: -<br>23.1 The Buyer may, at any time, suspend and reinstate execution of performance the whole or any part of the<br>scope of supply by the Supplier. Any orders for <span class='highlight'>suspension </span>or reinstatement of the scope of supply will be issued<br>by the Buyer to the Supplier in writing. The time for completion of the supplies may be extended for a period<br>equal to duration of the <span class='highlight'>suspension </span>or as agreed between Buyer and Supplier.<br>23.2 Upon the issuance of instructions to suspend the supplies as contemplated in this Order, the Supplier shall:<br>23.2.1 Suspend the scope of supply to the extent specified by the Buyer and store, preserve, protect and<br>otherwise secure the Material(s)/part thereof affected, to the extent reasonably practicable in the circumstances.<br>23.2.2 Place no further subcontracts or purchase orders for materials, services, with respect to those parts of the<br>material, supply of which is suspended, except to the extent expressly requested by the Buyer.<br>23.2.3 Use all reasonable endeavours to suspend the scope of supply, on the most favourable terms available to<br>the Supplier including all subcontracts and purchase orders, to the extent affected by such <span class='highlight'>suspension </span>and<br>otherwise to minimize the additional costs associated with such suspension.<br>23.3 At any time after such suspension, the Buyer may instruct the Supplier to resume execution of the<br>suspended scope of supply. Upon receipt of such instructions, the Supplier shall examine the material affected by<br>the <span class='highlight'>suspension </span>and shall remedy any deterioration or defect in or loss of such material that may have occurred<br>during the suspension. The suspended supply shall resume as expeditiously as possible after the receipt of such<br>withdrawal of <span class='highlight'>suspension </span>notice in accordance with the instructions of the Buyer in respect of the resumption.<br>Registered & Corporate Office: Unit No101, First Floor, Windsor, Village Kole Kalyan Off CST Road, Vidyanagari<br>Marg, Santacruz (East), Mumbai, Maharashtra-400098, India | Ph: +91 70284 93885 CIN:<br>U35100MH2024PTC436016 Email:complianceofficer@indigrid.co.in | www.indigrid.co.in<br>Page 9 of 12<br>Rajasthan BESS Private Limited <br> <br> Maharashtra  <br>23.4 If the <span class='highlight'>suspension </span>of supply is not attributable to Suppliers default, the Buyer shall  pay to the Supplier, the<br>price for the scope of supply completed against submission of documentary evidence and proof to the satisfaction<br>of the Buyer. In case any payment for the supplies in progress is being considered, the Parties shall mutually<br>agree upon the same, after taking into account any possibility of utilization of the WIP material by either of the<br>Party."
+        },
+        {
+            "role": "user",
+            "content": "show tables "
+        },
+        {
+            "role": "assistant",
+            "content": "No match. Try these keys: scope of supply, effective date of order, delivery schedule, order value, taxes & duties, payment terms, supplies inspections & testing, quality, warranty/ defect liability period, packing and marking, transfer of title and risk, insurance, assignment and sub-contracting, compliance of laws, suppliers representations and warranties, replacement of defective parts and materials, risk purchase, limitation of liabilities, intellectual property rights, secrecy and confidentiality, indemnification, force majeure, suspension, termination, arbitration, governing law and jurisdiction, general, general covenants"
+        }
+    ],
+    "tables": [],
+    "comparison_table": null,
+    "pinned": false
+}
