@@ -66,5 +66,5 @@ def extract_clause(doc, query):
 
 def run_query(extracted_file_name, query, *args, **kwargs):
     doc = load_document(extracted_file_name)
-
+    return extract_clause(doc, query)
 
