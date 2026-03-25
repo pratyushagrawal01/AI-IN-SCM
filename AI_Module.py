@@ -21,34 +21,34 @@ def load_document(file_name):
 
 # FULL 28 HEADINGS - Updated to match document exactly
 HEADING_MAP = {
-    'scope of supply': '1. Scope of Supply',
-    'effective date of order': '2. Effective Date of Order:',
-    'delivery schedule': '3. Delivery Schedule and Liquidated Damages:',
-    'order value': '4. Order Value:',
-    'taxes & duties': '5. Taxes & Duties:',
-    'payment terms': '6. Payment Terms:',
-    'supplies inspections & testing': '7. Supplies inspections & Testing:',
-    'quality': '8. Quality',
-    'warranty': '9. Warranty/ Defect Liability Period:',
-    'packing and marking': '10. Packing and Marking:',
-    'transfer of title and risk': '11. Transfer of Title and Risk:',
-    'insurance': '12. Insurance:',
-    'assignment and sub-contracting': '13. Assignment and Sub-Contracting:',
-    'compliance of laws': '14. Compliance of Laws, Standards and Codes:',
-    'suppliers representations and warranties': '15. Suppliers Representations and Warranties',
-    'replacement of defective parts and materials': '16. Replacement of Defective Parts and Materials:',
-    'risk purchase': '17. Risk Purchase:',
-    'limitation of liabilities': '18. Limitation of Liabilities:',
-    'intellectual property rights': '19. Intellectual Property Rights and Ownership of Design, Data and Documents:',
-    'secrecy and confidentiality': '20. Secrecy and Confidentiality:',
-    'indemnification': '21. Indemnification:',
-    'force majeure': '22. Force Majeure:',
-    'suspension': '23. Suspension:',
-    'termination': '24. Termination:',
-    'arbitration': '25. Arbitration:',
-    'governing law and jurisdiction': '26. Governing Law and Jurisdiction:',
-    'general': '27. General:',
-    'general covenants': '28. General Covenants # Compliance with Code of Ethical Business Conduct'
+    'scope of supply': 'Scope of Supply',
+    'effective date of order': 'Effective Date of Order:',
+    'delivery schedule': 'Delivery Schedule and Liquidated Damages:',
+    'order value': 'Order Value:',
+    'taxes & duties': 'Taxes & Duties:',
+    'payment terms': 'Payment Terms:',
+    'supplies inspections & testing': 'Supplies inspections & Testing:',
+    'quality': 'Quality',
+    'warranty': 'Warranty/ Defect Liability Period:',
+    'packing and marking': 'Packing and Marking:',
+    'transfer of title and risk': 'Transfer of Title and Risk:',
+    'insurance': 'Insurance:',
+    'assignment and sub-contracting': 'Assignment and Sub-Contracting:',
+    'compliance of laws': 'Compliance of Laws, Standards and Codes:',
+    'suppliers representations and warranties': 'Suppliers Representations and Warranties',
+    'replacement of defective parts and materials': 'Replacement of Defective Parts and Materials:',
+    'risk purchase': 'Risk Purchase:',
+    'limitation of liabilities': 'Limitation of Liabilities:',
+    'intellectual property rights': 'Intellectual Property Rights and Ownership of Design, Data and Documents:',
+    'secrecy and confidentiality': 'Secrecy and Confidentiality:',
+    'indemnification': 'Indemnification:',
+    'force majeure': 'Force Majeure:',
+    'suspension': 'Suspension:',
+    'termination': 'Termination:',
+    'arbitration': 'Arbitration:',
+    'governing law and jurisdiction': 'Governing Law and Jurisdiction:',
+    'general': 'General:',
+    'general covenants': 'General Covenants # Compliance with Code of Ethical Business Conduct'
 }
 
 def extract_clause(doc, query):
@@ -95,7 +95,7 @@ def extract_clause(doc, query):
     # Fallback - direct text search
     matches = re.finditer(re.escape(q_lower), doc, re.IGNORECASE)
     contexts = []
-    for match in list(matches)[:3]:
+    for match in list(matches)[:100]:
         context_start = max(0, match.start() - 300)
         context_end = min(len(doc), match.end() + 300)
         context = doc[context_start:context_end].replace('\n', ' ').strip()
@@ -104,7 +104,7 @@ def extract_clause(doc, query):
     if contexts:
         return f"No exact heading match. Relevant text found:\n\n" + "\n\n---\n\n".join(contexts)
     
-    return f"No '{query}' found. Available sections:\n{list(HEADING_MAP.keys())}\n\nPreview: {doc[:1000]}..."
+    return f"No '{query}' found. Available sections:\n{list(HEADING_MAP.keys())}\n\nPreview: {doc[:10000]}..."
 
 def run_query(extracted_file_name, query, *args, **kwargs):
     doc = load_document(extracted_file_name)
