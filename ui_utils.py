@@ -28,12 +28,14 @@ def initialize_session_state():
 
 def save_chat(chat_name, chat_data):
     """Save chat data to disk."""
-    chat_name = chat_name.strip()
-    chat_dir = os.path.join("chats", chat_name)
+    backend_key = chat_name.strip()
+    chat_data["backend_key"] = backend_key  # Store sanitized key
+    chat_dir = os.path.join("chats", backend_key)
     os.makedirs(chat_dir, exist_ok=True)
     metadata_path = os.path.join(chat_dir, "metadata.json")
     with open(metadata_path, "w") as f:
         json.dump(chat_data, f, indent=4)
+    return backend_key  # Return the sanitized key
 
 def load_chats():
     """Load all chats from disk into session state."""

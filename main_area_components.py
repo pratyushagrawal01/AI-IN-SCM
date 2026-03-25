@@ -61,13 +61,10 @@ def render_main_area():
                     
                     st.success(f"{len(uploaded_files)} PDF(s) uploaded and extracted!")
                     
-                    st.session_state.current_chat = chat_name
-                    st.session_state.doc = st.session_state.all_docs[0]
-                    st.session_state.current_pdf = st.session_state.all_pdfs[0]
-                    st.session_state.chat = []
-                    st.session_state.chats[chat_name] = {
-                        "file": st.session_state.doc,
-                        "pdf": st.session_state.current_pdf,
+                    # Create chat data first
+                    chat_data = {
+                        "file": st.session_state.all_docs[0],
+                        "pdf": st.session_state.all_pdfs[0],
                         "all_docs": st.session_state.all_docs,
                         "all_pdfs": st.session_state.all_pdfs,
                         "all_pdf_names": st.session_state.all_pdf_names,
@@ -76,8 +73,16 @@ def render_main_area():
                         "comparison_table": None,
                         "pinned": False
                     }
-                    save_chat(chat_name, st.session_state.chats[chat_name])
+                    
+                    backend_key = save_chat(chat_name, chat_data)
+                    st.session_state.current_chat = backend_key
+                    st.session_state.doc = os.path.join(chat_dir, f"doc_1_extracted.txt")
+                    st.session_state.current_pdf = os.path.join(chat_dir, "doc_1.pdf")
+                    st.session_state.chat = []
+                    st.session_state.chats[backend_key] = chat_data
                     st.rerun()
+
+
         st.stop()
     
     # SCM COMPARISON TABLE DISPLAY
@@ -153,10 +158,14 @@ def render_main_area():
             st.session_state.chats[st.session_state.current_chat].get("all_pdfs"),
             st.session_state.chats[st.session_state.current_chat].get("all_pdf_names")
         )
+        # Convert only section title **bold** to actual bold, preserve text
+        # Pattern: **Section Title**
+        import re
+        answer_html = re.sub(r'\*\*(.*?)\*\*', r'<strong>\1</strong>', answer)
         highlighted = re.sub(
             f"({re.escape(query)})",
             r"<span class='highlight'>\1</span>",
-            answer,
+            answer_html,
             flags=re.IGNORECASE
         )
         highlighted = highlighted.replace("\n", "<br>")

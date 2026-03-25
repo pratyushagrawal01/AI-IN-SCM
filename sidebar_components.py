@@ -29,10 +29,18 @@ def render_sidebar():
                 is_active = name == st.session_state.current_chat
                 display_label = f"**_{label}_**" if is_active else label
                 if st.button(display_label, key=f"open_{name}", help=f"Open chat: {name}"):
-                    st.session_state.chat = st.session_state.chats[name]["messages"]
-                    st.session_state.doc = st.session_state.chats[name]["file"]
-                    st.session_state.current_pdf = st.session_state.chats[name].get("pdf", name + ".pdf")
-                    st.session_state.current_chat = name
+                    chat_data = st.session_state.chats[name]
+                    backend_folder = chat_data.get("backend_key", name.strip())
+                    st.session_state.chat = chat_data.get("messages", [])
+                    st.session_state.doc = chat_data["file"]
+                    st.session_state.current_pdf = chat_data.get("pdf", name + ".pdf")
+                    st.session_state.current_chat = backend_folder
+                    # Fix: Ensure doc path exists for reload
+                    if not os.path.exists(st.session_state.doc):
+                        chat_dir = os.path.join("chats", backend_folder)
+                        st.session_state.doc = os.path.join(chat_dir, "doc_1_extracted.txt")
+                    st.session_state.current_display_name = name
+
                     # Initialize missing keys
                     if "tables" not in st.session_state.chats[name]:
                         st.session_state.chats[name]["tables"] = []
@@ -46,19 +54,7 @@ def render_sidebar():
                         st.session_state.chats[name]["all_pdf_names"] = [os.path.basename(st.session_state.chats[name]["pdf"])]
                     st.rerun()
             
-            # PIN
-            # ## with cols[1]:
-            #     if st.button("📌", key=f"pin_{name}", help="Pin/unpin this chat"):
-            #         if name in st.session_state.pinned:
-            #             st.session_state.pinned.remove(name)
-            #         else:
-            #             st.session_state.pinned.add(name)
-            #         # Save updated pinned status
-            #         for chat in st.session_state.chats:
-            #             st.session_state.chats[chat]["pinned"] = chat in st.session_state.pinned
-            #             save_chat(chat, st.session_state.chats[chat])
-            #         st.rerun() ##
-            
+           
             # RENAME
             with cols[2]:
                 if st.button("✏️", key=f"rename_{name}", help="Rename this chat"):
