@@ -131,10 +131,10 @@ def render_sidebar():
     st.sidebar.markdown("---")
     with st.sidebar.expander("📄 PDFs in This Chat", expanded=False):
         current_pdf_names = st.session_state.chats.get(st.session_state.current_chat, {}).get("all_pdf_names", [])
-        if current_pdf_names:
+        if current_pdf_names:   
             for i, pdf_name in enumerate(current_pdf_names):
                 cols = st.columns([3, 1])
-                source = "RFP" if i == 0 else f"Quotation {i}"
+                source = f"PDF {i+1}"
                 with cols[0]:
                     st.write(f"- {source}: {pdf_name}")
                 with cols[1]:

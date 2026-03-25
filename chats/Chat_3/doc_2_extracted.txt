@@ -1,0 +1,651 @@
+Rajasthan BESS Private Limited 
+ 
+ Maharashtra  
+PURCHASE ORDER
+Vendor Name : MARC ELECTRO INFRA PVT LTD Plant Name : RBPL  
+Address : 205, Vice Regal, 15, Punit Nagar, Old
+Padra Road,
+Vadodara Gujarat 390015
+IndiaBill.Address : District: BikanerGround Floor , Bap
+bikampur roadVillage Bikolai ,Bajju Khalsa
+RajasthanRajasthan 334305
+India
+Telephone
+Fax
+GST:
+:
+:9825437364
+24AAICM8098H1Z0GSTIN : 08AAOCR1304B1ZS
+Purchase Order : 8720000151 Order Date : 12.02.2026
+Email : anand_shah@marc.net.in Contact Person :
+Quotation Reference No & Date :
+Project Reference : Rajasthan BESS Pvt Ltd
+Delivery Address :
+Subject : The Supply of 220KV Cable termination kit at RBPL BESS Pvt. Ltd.
+Sr.
+NoMaterial No Description Qty UOM Basic Rate Amount (INR)
+10 C-TK-1C-
+1200220KV TERMINATION KIT
+SUITABLE FOR 1C X7.000 NO 820,000.00 5,740,000.00 
+Total 5,740,000.00 
+IGST 1,033,200.00 
+Total Value
+(INR)6,773,200.00 
+Amount in Words :  Sixty Seven Lakh Seventy Three Thousand Two Hundred Rupees only.
+Terms and Condition
+With regards to the above-mentioned subject, references, correspondences and discussions held with you and your
+company officials, Rajasthan BESS Private Limited ("Buyer") is pleased to issue this purchase order ("Order") to
+M/s Marc Electro Infra Pvt Ltd. ("Supplier") for the scope of supply provided herein, and in accordance with the
+terms and conditions outlined in this Order.
+Hereinafter, the Buyer and Supplier may individually be referred to as a "Party" and collectively as "Parties".
+1. Scope of Supply
+1.1 The Supplier agrees to manufacture, sell and deliver to the Buyer, 220KV Cable termination kit as per details
+mentioned above in this Order, (hereinafter referred to as "Material(s)"), in accordance with the terms and
+conditions of this Order. The Material(s) shall be fully compliant with the specifications set out in this Order
+("Technical Specifications") and the characteristics specified in the technical document as agreed by both Parties.
+1.2 The scope of work to be carried out by the Supplier includes, but not limited to design, engineering,
+manufacturing, testing, packing, forwarding and delivery of Material(s) as per its technical specification.
+2. Effective Date of Order: -
+2.1 This Order shall come into effect from the date of this order ("Effective Date")
+3. Delivery Schedule and Liquidated Damages: -
+3.1 The Material shall be delivered by March 2026 ("Delivery Schedule"), subject to issuance of the
+Manufacturing Clearance (MFC) by the end of January 2026, in case of any delay in the MFC, delivery timelines
+shall increase proportionately. Upon successful inspection and issuance of the Dispatch Instruction and Quality
+Clearance Note by the Buyer, it shall be the responsibility of the Supplier to ensure prompt and expeditious
+Registered & Corporate Office: Unit No101, First Floor, Windsor, Village Kole Kalyan Off CST Road, Vidyanagari
+Marg, Santacruz (East), Mumbai, Maharashtra-400098, India | Ph: +91 70284 93885 CIN:
+U35100MH2024PTC436016 Email:complianceofficer@indigrid.co.in | www.indigrid.co.in
+Page 1 of 12
+Rajasthan BESS Private Limited 
+ 
+ Maharashtra  
+dispatch and delivery of the Material to the designated project site, in line with the approved delivery plan and in
+coordination with site requirements. Freight and Insurance charges to site are included in the Order Value.
+Drawings for submission for approval should be submitted within 15 days of the Notice to Proceed mail.
+3.2 In the event of delay in delivery beyond the agreed delivery schedule, Liquidated Damages (LD) shall be levied
+at the rate of 0.5% of the basic undelivered value per week of delay, subject to a maximum of 5% of the total
+undelivered value. This LD shall be applicable without prejudice to other rights and remedies available to the
+Buyer under the Order.
+4. Order Value:
+4.1 The total value for the above-mentioned scope of supply and deliverables under this Order shall be INR
+67,73,200/-(Rupees Sixty-seven Lakh Seventy-Three Thousand Two Hundred Only) (hereinafter referred to as
+"Order Value"). The above Order Value inclusive Goods and Service Tax (GST).  The Order Value is inclusive of
+Goods and Services Tax (GST).
+4.2 The Order Value is based on basic Unit Price as mentioned hereof, which shall remain firm for the entire
+period during which the Material(s) are supplied and the scope of supply and deliverables under this Order are
+completed / performed. No escalation on any account shall be permitted for the aforesaid period or till the end of
+the extended period, if any.
+5. Taxes & Duties:
+5.1 The Order Value is inclusive of Goods and Service Tax (GST).
+5.2 The introduction of new applicable taxes or any variation in existing applicable taxes and duties after the
+Effective Date up to completion of supply under this Order or termination of this Order, whichever is earlier, shall
+be to account of "Buyer" at actuals against satisfactory documentary evidence.
+5.3 Income Tax applicable to the Supplier shall be deducted from any payment made to Supplier and necessary
+TDS Certificates will be issued by "Buyer" to Supplier.
+6. Payment Terms:
+6.1 Payment for the supply shall be done as per below milestone
+6.1.1 100% of the Order Value for the Supply portion shall be paid through an irrevocable Letter of Credit (LC)
+with a usance period of forty#five (45) days. The Performance Bank Guarantee (PBG) shall form part of the LC
+documentation. The LC shall be opened by the Buyer after issuance of the inspection call. Alternatively, if LC is
+not opened, 100% of the Order Value shall be released before dispatch after completion of inspection and
+issuance of QCN and submission of Pro-forma invoice.
+6.2 Supplier shall provide to Buyer, the following supporting documents along with dispatch of material:
+a) GST Invoice
+b) Warranty Certificate
+c) E-way bills (Road permits)
+d) Copy of Lorry receipt
+e) Inspection Report (if applicable)
+7. Supplies inspections & Testing: -
+7.1 The Supplier shall submit the detailed test procedures to be approved by the Buyer for conducting the Test.
+7.2 All the Material(s) shall undergo Factory Acceptance Test/ Routine test/ Acceptance Test as per technical
+specifications and discussions with the Buyer.
+7.3 Pre-dispatch inspection for quality and quantity shall be carried by Buyer (or Buyers nominated representative
+/ or any other authorised officials) as per approved quality plan and an inspection certificate shall be issued in
+this regard. In case of inspection waiver, an "Inspection Waiver" certificate shall be issued by Buyer prior to
+dispatch. This certificate (Inspection or Inspection Waiver) along with the relevant certificates and internal test
+Registered & Corporate Office: Unit No101, First Floor, Windsor, Village Kole Kalyan Off CST Road, Vidyanagari
+Marg, Santacruz (East), Mumbai, Maharashtra-400098, India | Ph: +91 70284 93885 CIN:
+U35100MH2024PTC436016 Email:complianceofficer@indigrid.co.in | www.indigrid.co.in
+Page 2 of 12
+Rajasthan BESS Private Limited 
+ 
+ Maharashtra  
+reports shall be submitted by the Supplier to the Buyer at the time of delivery of Material(s).
+7.4 For Material(s) not being delivered on Ex-works basis, Buyer shall also conduct a physical inspection after
+receipt of the Material(s) at the designated delivery location and thereafter issue a Material Receipt Note ("MRN")
+to the Supplier conveying all dents or damages that may have arisen during transit. Upon receipt of such notice
+from the Buyer, Supplier shall within 5 business days replace/ rectify/ repair such damages to the satisfaction of
+the Buyer.
+7.5 It is expressly clarified that acceptance of Material(s) at any of the points above will in no way prevent
+Buyer for its rightful claim under the Order.
+8. Quality
+8.1 The Supplier hereby warrants to the Buyer that the material selection and manufacturing have been and will
+be carried out and that it shall otherwise perform its obligations under this Order:
+8.1.1 using the skill, care and diligence to be expected of appropriately qualified and experienced contractors,
+professional engineers and constructors with experience in works of type, nature and complexity similar to the
+works.
+8.1.2 in accordance with good modern engineering principles and practices of a standard equivalent   to   those
+adopted   for Power Plants / transmission lines using similar technology internationally.
+8.1.3 using only materials and goods which are new and unused and so that such materials and goods and the
+standards of all workmanship, manufacture and fabrication shall conform in all respects to the standards and
+codes of practice referred to in the Material Specification and existing as on the date of the Order;
+8.1.4  so that each item of supplies shall, upon completion of Order, be in accordance with all relevant
+requirements of the Order unless otherwise notified in writing by the Buyer or altered in accordance with a
+variation instructed by the Buyer.
+8.1.5  so that the Material(s) shall be capable of being operated in accordance with the requirements of the
+Order and good industry practice consistent with the Suppliers operating and maintenance manuals; and so that
+the supplies shall comply with the provisions of any applicable law, regulation, rule, direction of a governmental in
+effect on the date of completion of the Order.
+8.2 The Supplier warrants that the Material(s) shall be new and in accordance with the Technical Specifications
+and free from Defects (as defined in Clause 9).
+8.3 The acceptance of the Material(s) by the Buyer shall in no way relieve the Supplier of its obligations under
+the Order.
+9. Warranty/ Defect Liability Period: -
+9.1 The Supply shall be free from Defects (defects in design, engineering, equipment, materials and workmanship
+of the system supplied) and shall be warranted for a period of 18 (Eighteen) months from the date of
+commissioning or 24 (Twenty-Four) months from date of supply of material, whichever is earlier.
+9.2 The Suppliers shall replace / repair/ modify any defective parts in the Material(s), supplies / system during the
+warranty period free of cost to the Buyer. All costs in relation to such repair or replacement including with
+limitation dismantling from site, deputation of service engineer, testing for the defective portion if required,
+delivery to the site, deployment of any special tool & plant for such rectification etc shall be to the account of
+the Supplier. Such replaced defective parts shall be returned to the Supplier at site after replacement(s) have been
+completed by the Supplier. The replaced/modified parts or Material(s) shall have warranty of 12 months from the
+date of such replacement/modification plus the balance time period of original warranty.
+9.3 In the event, Supplier fails to `repair, replace or rectify such defect in a timely manner, then Buyer may
+proceed to carry out such replacement or rectification either by itself or through a third party at the risk and cost
+of Supplier. Buyer shall have the right to recover such costs from the performance security of the Buyer, if any
+provided under the Order.
+9.4 In case of those defective parts which are not repairable at site but are essential for the commercial
+operation of the Supplies, the Supplier  and  the  Buyer  shall  mutually agree to a programme of replacement or
+renewal which will minimize disturbance, disruption or interference, in the operation of the Supplies.
+Notwithstanding anything contrary, the Supplier shall continue to be liable for any latent defects arising in respect
+of the Material(s) for a period of 5 (five) years after the expiry of Warranty Period and this liability shall survive
+the expiry or termination of the Order whichever is earlier.
+10. Packing and Marking: -
+Registered & Corporate Office: Unit No101, First Floor, Windsor, Village Kole Kalyan Off CST Road, Vidyanagari
+Marg, Santacruz (East), Mumbai, Maharashtra-400098, India | Ph: +91 70284 93885 CIN:
+U35100MH2024PTC436016 Email:complianceofficer@indigrid.co.in | www.indigrid.co.in
+Page 3 of 12
+Rajasthan BESS Private Limited 
+ 
+ Maharashtra  
+Supplier shall make supply of Material(s) in packing worthy to withstand the requisite mode of transportation. The
+general specification of marking in respect of material shall be as per good industry practices and as per the
+requirement of the Buyer.
+11. Transfer of Title and Risk: -
+Title shall transfer from supplier to Buyer at the Ex works of the Supplier and all risks in Material(s) shall
+transferred from the Supplier to the Buyer upon receipt of the Material(s) at the designated location / site in
+accordance with the terms and conditions of this Order.
+12. Insurance: -
+12.1 The Supplier shall at his own expense take out and maintain in effect, during the performance of this Order,
+the insurances set forth below in the sums and with the deductibles and other conditions specified herein.
+12.2 The Supplier will arrange for transit insurance of material included under the scope of this Order, to cover
+all risks during the Material transit (regardless of mode of transportation) between Suppliers manufacturing facility
+/ warehouse and designated delivery location.
+12.3 The insurance shall be on full replacement value basis (including transit and insurance cost) covering entire
+material value with no escalation cost.
+12.4 The Buyer shall also be named as co-insured under the insurance policy taken out by the Supplier except
+for third party liability.
+12.5 Notwithstanding the insurance requirements mentioned above, it would be the Suppliers responsibility to take
+and maintain adequate insurance cover. If at any point of time during execution of the Order, the insurance
+policies are found to be inadequate, the Supplier shall take fresh insurance policies meeting aforesaid
+requirements, to the satisfaction of the Buyer.
+12.6 Any risk of loss or damage to the Material(s), material and/or spares during loading, transportation and until
+safe delivery of the Material(s) in accordance with this Order, at the designated delivery location, shall be to the
+account of the Supplier. The Supplier shall be responsible for preference of all claims and make good the
+damages or loss by way of repairs and/or replacement of Material(s) damaged or lost. Notwithstanding the extent
+of insurances cover and the amount of claim available from the underwriter, the Supplier shall be liable to make
+good the full replacement/rectification of all the Material(s) and shall ensure their availability as per ordered
+requirement without any additional financial liability to the Buyer.
+13. Assignment and Sub-Contracting: -
+13.1 Supplier shall not be entitled, without the specific prior written consent of the Buyer to assign, or transfer
+any of its rights and/or obligations, in whole or in part, arising from the Order, or sub-contract any scope of
+supply to any third party. Any sub-contracting by the Supplier shall not relieve the Supplier from its obligations of
+this Order and for which the Supplier shall remain wholly responsible and liable to the Buyer.
+13.2 The Supplier shall, within 1 (one) week from the Effective Date of this Order, deliver to Buyer a major
+sub-suppliers list for review. The Supplier shall furnish all particulars of such sub-suppliers.
+13.3 The Supplier shall furnish to the Buyer copies of technical ordering specifications and principal commercial
+terms (un-priced) of the sub-contracts as the Buyer may request from time to time.
+13.4 The Supplier shall be solely responsible and liable for all the acts, omissions, defaults and neglects of all
+sub-suppliers and all its and their employees, representatives, agents, or workmen of any of them as fully as if
+they were the acts, omissions, defaults or neglects of the Supplier under the terms of this Order. Supplier shall
+be the single point of contact for the Buyer irrespective of any sub-contracts entered by the Supplier.
+13.5 The Supplier shall ensure that all sub-contracts are made in writing.
+13.6 Each instrument evidencing any sub-contract shall provide that, pursuant to terms in form and substance
+satisfactory to the Buyer, the rights of the Supplier under such sub-contract are assignable to the Buyer, its
+successors and assigns upon the Buyers written request following termination of this Order.
+14. Compliance of Laws, Standards and Codes: -
+Registered & Corporate Office: Unit No101, First Floor, Windsor, Village Kole Kalyan Off CST Road, Vidyanagari
+Marg, Santacruz (East), Mumbai, Maharashtra-400098, India | Ph: +91 70284 93885 CIN:
+U35100MH2024PTC436016 Email:complianceofficer@indigrid.co.in | www.indigrid.co.in
+Page 4 of 12
+Rajasthan BESS Private Limited 
+ 
+ Maharashtra  
+14.1 All Material(s) and supplies under this Order shall in addition to compliance with the Annexures, Material
+Details and Scope of Supply, shall also comply with the requirements of the relevant international, Indian laws,
+regulations, rules, standards and codes including safety codes. Supplier shall at all times comply with all
+applicable laws, regulations, rules, ordinance, judgment, order, decree, directive, guideline, policy, requirement, or
+other governmental restriction or any similar form of decision, or determination by, or any interpretation or
+administration of any of the foregoing by, any statutory, governmental, local, municipal or regulatory authority
+whether in effect as of the date of this Order or thereafter and in each case as amended from time to time
+("Applicable Laws"). Nothing contained in the Order shall be construed to relieve the Supplier from its obligation
+to comply with the aforesaid requirements. The Supplier shall fully acquaint himself with these requirements and
+shall ensure compliance with them, without any liability to Buyer.
+15. Suppliers Representations and Warranties
+15.1 The Supplier hereby represents and warrants that:
+(a) it is duly organized, validly existing and in good standing under the laws of India and it has full power and
+authority to execute this Order and deliver and perform its obligations hereunder and to carry out the transactions
+contemplated hereby.
+(b) it holds all valid licenses, registrations and permissions that are required under the Applicable Laws for
+supplying the Material(s) in terms of this Order.
+(c) It will comply with Applicable Laws in performing its obligations including procurement of licenses,
+permissions, approvals, certificates, and payment of taxes, if required; it shall perform its obligations hereunder in
+a lawful, proficient and diligent manner.
+(d) it has the financial standing and capacity to undertake the performance of this Order and is not adjudged
+insolvent by any competent court.
+(e) all the information furnished by the Supplier to the Buyer, is true and correct.
+(f) the execution, delivery and performance of this Order will not be in contravention of, in conflict with, result in
+the breach of, or constitute a default under any of the terms of its constitutional documents or any Applicable
+Laws or any other agreement entered by Supplier with any other party;
+(g) the supplies made by the Supplier shall be in full conformity with the requirements of this Order and free of
+defects and deficiencies (including latent defects) and that the supplies shall be fit for the purposes and uses
+intended and capable of operation in the manner contemplated hereby and in accordance with this Order;
+(i) it shall duly and satisfactorily perform its obligations hereunder, during the term of this Order; it will provide
+regular updates at such intervals as may be specified by Buyer with respect to the said obligations.
+(j) it shall ensure that the supplies made under this Order are of high quality, standard and performance which
+must be commensurate with the expectations of Buyer.
+(k) it shall comply and act in accordance with the rules, regulations and internal policies of the Buyer including its
+Code of Ethical Business Conduct (as may be provided by the Buyer or as published on its website).
+(l)  it shall observe highest standards of integrity, not influence any official of the Buyer in any manner, not
+indulge in any unethical practice and comply with Applicable Laws pertaining to the same including those relating
+to anti-bribery and anti-corruption.
+(m) no criminal proceedings/investigations are initiated or pending against it or its directors, promoters, or partners
+and they are not subject to any criminal liability or disqualification.
+(n) it shall not use the name and / or logo of Buyer in any manner either for credit arrangements or otherwise.
+(o) it shall not do or cause to be done anything, which is prejudicial to the interest of Buyer or whereby the
+business or reputation of Buyer may be injured or damaged.
+16. Replacement of Defective Parts and Materials: -
+16.1 If  during  the  progress  of  the  supplies,  the  Buyer shall  decide  and  inform  in  writing  to the
+Supplier, that the Supplier has manufactured any supplies or part of the supplies unsound and imperfect or has
+furnished any supplies inferior to the quality specified,  the Supplier on receiving details of such defects or
+deficiencies shall at his own expense within seven (7) days of his receiving the notice, or otherwise, within such
+time as may  be reasonably necessary for making it good proceed to alter, reconstruct or remove such supplies
+or its part and furnish fresh supplies up to the standards of the specifications. In case the Supplier fails to do so,
+the Buyer may on giving the Supplier seven (7) days notice in writing of its intentions to do so, proceed to
+remove the portion of the supplies so complained of and at the cost of the Supplier perform all such work or
+Registered & Corporate Office: Unit No101, First Floor, Windsor, Village Kole Kalyan Off CST Road, Vidyanagari
+Marg, Santacruz (East), Mumbai, Maharashtra-400098, India | Ph: +91 70284 93885 CIN:
+U35100MH2024PTC436016 Email:complianceofficer@indigrid.co.in | www.indigrid.co.in
+Page 5 of 12
+Rajasthan BESS Private Limited 
+ 
+ Maharashtra  
+furnish all such supplies provided that nothing in this clause shall be deemed to deprive the Buyer or affect any
+rights under the Order which the Buyer may otherwise have in respect of such defects and deficiencies.
+16.2 In case of any damages (un repairable at site) of any supplies; or in case of any defective Material(s) or
+supplies not complying to specified quality parameters; or in case of any short supply of Material(s) or additional
+supply of Material(s) are required to enable the supplies comply with its functional requirements, the total
+replacement cost including without limitation all charges towards freight, duties, taxes and clearances shall be
+borne by the Supplier.
+17. Risk Purchase: -
+17.1 Upon Suppliers default in adhering to the terms and conditions of this Order, the Buyer reserves the right to
+terminate or discontinue the supply at any point of time during the execution of Order.
+17.2 In the event of aforesaid default or as set out herein below, to the satisfaction of the Buyer, Buyer reserves
+the right to make alternative arrangements as deemed necessary at the risk and cost of the Supplier without
+assigning any reason whatsoever. The Buyer shall be entitled to exercise this right
+         if the Supplier:
+a)     Neglects/fails repeatedly to execute this Order or any part item of the Order at any point of time in the
+time and manner as required hereunder, including but not limited the Delivery Schedule.
+b)     Refuses or neglects to comply with any reasonable instructions given to Supplier or communicated by the
+Buyer in connection with the Order.
+c)      Contravenes or fails to comply with the provisions of the Order including but not limited to the Material
+Specifications.
+  Buyer may give notice in writing to Supplier to make good the aforesaid default, neglect, failure, refusal or
+contravention on part of the Supplier.
+  If Supplier fails to comply with the notice within fifteen (15) days from the date of notice thereof, then and in
+such case, the Buyer shall be at liberty to employ other agencies and forthwith make good the aforesaid at the
+risk and cost of the Supplier.
+Or
+If the Buyer thinks fit, it shall be entitled without prejudice to any other right it may have under the Order, to
+take the Material(s) wholly or in any part, out of Suppliers scope and reorder the required supplies with other
+supplier(s) to complete the performance of this Order or any part thereof.
+And
+Buyer shall be entitled to retain supply of any balance part of Material from the Buyer, which may otherwise be
+due in the Order as the case may be. If the cost of completing the Order or executing a part thereof, owing to
+Suppliers default, neglect, failure, refusal or contravention of / in respect of the Order, as aforesaid, exceeds the
+balance which is due to Supplier under this Order then Supplier shall pay such excess amount to the Buyer. Such
+payment of excess amount shall be independent of the liquidated damages for delay, which Supplier shall
+continue to be liable to pay if there was delay in supply of Material(s) as per the Delivery Schedule.
+17.3 The costs borne by Buyer while exercising its right under this Clause shall be to the Suppliers account and
+the same shall be deducted from Suppliers invoice with additional 10% administrative charges over and above the
+risk purchase cost.
+18. Limitation of Liabilities: -
+18.1
+a. Neither Party shall be liable to the other Party for any special, indirect ,incidental ,punitive or consequential
+damages of any nature (for any cause whatsoever ) including compensation ,reimbursement or damages on
+account of the loss of present or anticipated profits or revenues ,loss of goodwill ,loss of opportunity ,generation
+loss or downtime ,regardless of whether such party has but not limited to loss of use, loss of production, or loss
+of profits or into been advised of the possibility of such damages or
+not, expect for losses incurred from wilful misconduct and gross negligence.
+Registered & Corporate Office: Unit No101, First Floor, Windsor, Village Kole Kalyan Off CST Road, Vidyanagari
+Marg, Santacruz (East), Mumbai, Maharashtra-400098, India | Ph: +91 70284 93885 CIN:
+U35100MH2024PTC436016 Email:complianceofficer@indigrid.co.in | www.indigrid.co.in
+Page 6 of 12
+Rajasthan BESS Private Limited 
+ 
+ Maharashtra  
+b. Now withstanding any provision of this contract, the cumulative maximum liability of the supplier to the
+purchaser under or in connection with this contract, will be limited to 100% of contract price provided that the
+supplier#s aggregate liability under this clause (b) shall not apply and shall be;
+1) Uncapped and without any limitation in case of the following:
+i. Any claims or losses incurred by purchaser on account of any non-compliance or violation of Application Laws
+and/or Approvals or fraud.
+ii. Bodily injury, sickness, dieses, or death of any person attributable to negligence wilful act breach of contract
+by supplier or its personal, agent, Sub-Supplier and as are finally determined by a court of competent.
+iii. Loss of physical damages to real property of purchaser or any thirst party attributable to negligence, wilful act
+or breach of contract by supplier and as are finally determined by a court by competent jurisdiction.
+iv. Cost of remedying any defects under this contract.
+v. Any infringement of the intellectual Property Rights; and
+c. This liability clause shall prevail over any conflicting or inconsistent provisions contained in any of the
+documents comprising the contract, expect to the extent such conflicting inconsistent provisions further restricts
+Supplier#s Liability.
+19. Intellectual Property Rights and Ownership of Design, Data and Documents: -
+19.1 Supplier acknowledges and agrees that the Buyer will be the exclusive owner of all rights, title and interest
+including intellectual property rights contained in any document, data, know-how, designs, deliverables and reports
+which may be created or developed in respect of this Order. All existing, base or background intellectual property
+rights of the Buyer shall continue to be exclusively owned by the Buyer. Supplier should not use the designs
+(including minor modification) or pass it on to a third party, in respect of any of their or their associates projects
+without prior permission in writing from the Buyer.
+20. Secrecy and Confidentiality: -
+20.1 The Supplier shall treat the details of the Order and any information, provided /disclosed or which will be
+provided/disclosed by the Buyer to the Supplier, either written or oral or in any form of media or which has been
+acquired or will be acquired by the Supplier, including but not limited to designs, drawings, specifications,
+technical information, documents, know-how, designs, manufacturing processes, data, financial information and
+other technologies, whether  patentable, copyrightable or susceptible to any other form  of  protection,  in
+relation to the Order ("Confidential Information") strictly as private and confidential, hold it in a secure place and
+not publish, disclose, copy, reproduce or distribute any of it or otherwise make it available to any person other
+than an authorized representative of Supplier, the same or any particulars thereof (save insofar as may be
+necessary for the purposes of the Order), without the previous written consent of the other Party, provided that
+nothing shall prevent the publication or disclosure of any information, that Supplier can prove that, has come
+within the public domain otherwise than by breach of this Clause, or was received from a third party free to
+lawfully disclose such information to Supplier, or was in the Suppliers lawful possession prior to receipt from the
+Buyer, as evidenced by written documentation, or is independently developed by the Supplier without the benefit
+of any of the Confidential Information as evidenced by written documentation, or is required to be disclosed to
+comply with legal mandatory regulations, a judicial or official order or decree, provided that written advance
+notice of such judicial action was timely given to the Buyer.
+20.2 The Supplier shall itself and shall ensure that its authorized represenatitives, keep the Confidential
+Information securely and properly protected against theft, damage, loss and unauthorised access (including access
+by electronic means), during the term of this Order and thereafter, with at least the same degree of care that it
+applies to its own confidential information. The  Supplier shall notify the Buyer immediately upon becoming aware
+that any of the Confidential Information has been disclosed to, or obtained by, a third party otherwise than as
+permitted by this provision. Notwithstanding dislcosure by Supplier to its authorized representatives, the Supplier
+shall be principally liable for any breaches of obligations contained herein by such authorized representatives.
+20.3 Further upon expiry or termination of this Order or upon written request by the Buyer, whichever is earlier,
+Registered & Corporate Office: Unit No101, First Floor, Windsor, Village Kole Kalyan Off CST Road, Vidyanagari
+Marg, Santacruz (East), Mumbai, Maharashtra-400098, India | Ph: +91 70284 93885 CIN:
+U35100MH2024PTC436016 Email:complianceofficer@indigrid.co.in | www.indigrid.co.in
+Page 7 of 12
+Rajasthan BESS Private Limited 
+ 
+ Maharashtra  
+the Supplier shall itself and procure that its authorized representatives shall promptly, return to the Buyer all
+documents containing Confidential Information and permanently remove all Confidential Information from any
+computer, word processor, disk, memory stick or other device containing such Confidential Information, other than
+those that are automatically backed up in accordance with the Suppliers retention policies, which shall be
+accorded confidential treatment as provided herein.
+21. Indemnification: -
+21.1 Notwithstanding anything contained in this Order, the Supplier hereby indemnifies and holds harmless the
+Buyer and its directors, employees, officers, representatives and agents (the "Buyer Indemnified Parties") from and
+against any and all suits, actions or administrative proceedings, claims, demands, losses, liabilities, damages,
+costs, and expenses of whatsoever nature including attorneys fees and legal costs, which the Buyer may suffer
+as a result of any breach of the terms of this Order, or any negligence or wilful misconduct, or any
+misrepresentation on the part of the Supplier and/or its sub-suppliers, sub-contractors, employees, workers,
+representatives or agents.
+21.2 The Supplier shall fully indemnify and save harmless and defend Buyer Indemnified Parties from and against
+any and all suits, actions, claims, demands, losses, liabilities, damages, costs, and expenses of whatsoever nature
+including attorneys fees and legal costs, that Buyer Indemnified Parties may suffer, incur or pay in connection
+with infringement (or assertions of infringement) of any patent rights, copyrights or other intellectual property
+rights, proprietary rights with respect of materials, designs, supplies, techniques, processes and information
+designed or used by Supplier in performing the Order or forming a part of the material.
+21.3 If any proceedings are brought or any claim is made against the Buyer arising out of the matters referred to
+above, the Buyer shall promptly give the Supplier a notice thereof and the Supplier shall at its own expense
+forthwith take control of and conduct such proceedings or manage such claims and any negotiations for the
+settlement of any such proceedings or claims, however shall not act, take any decision or agree to anything, on
+behalf of Buyer, without the express prior written consent of the Buyer. If the Supplier fails to notify the Buyer
+within Seven (7) days after receipt of such notice that it shall take control of proceedings and claims, as
+aforesaid, then the Buyer shall be free to deal with the same at the risk and cost of the Supplier.
+22. Force Majeure: -
+22.1 Force Majeure means an event or circumstance or combination of events or circumstances beyond the direct
+or indirect control of the party affected (the "Affected Party") that: (i) is not attributable to the other party; (ii)
+could not be reasonably foreseen or prevented even upon the exercise of due diligence and good industry
+practices;  including but not limited to:
+22.1.1 act of God, including, but not limited to, earthquake, volcanic eruption, landslide, flood, cyclone, typhoon,
+tornado, or exceptionally adverse weather conditions which are in excess of the statistical measures for the last
+thirty (30) years;
+22.1.2 war (whether declared or undeclared), invasion, armed conflict or act of foreign enemy, blockade,
+embargo, revolution, riot, insurrection, insurgency terrorist or military action.
+22.1.3 radioactive contamination or ionizing radiation originating from a source in India or resulting from any other
+event of Force Majeure mentioned above, excluding circumstances where the source or cause of contamination or
+radiation is brought or has been brought into or near the site by the Affected Party or those employed or
+engaged by the Affected Party; or
+22.1.4 Industry wide strikes and labour disturbances, having a nationwide impact in India.
+22.2 Force Majeure shall not include (i) any event or circumstance which is within the reasonable control of the
+Parties and (ii) the following conditions, except to the extent that they are consequences of an event of Force
+Majeure:
+22.2.1 Unavailability, late delivery, or changes in cost of the machinery, equipment, materials, spare parts etc. for
+the execution of the Order.
+22.2.2 Delay in the performance of the sub-suppliers, subcontractors, representatives or agents
+22.2.3 Non-performance resulting from normal wear and tear typically experienced in transmission materials and
+equipment.
+22.2.4 Strikes or labour disturbance at the site of the Supplier.
+22.2.5 Insufficiency of finances or funds with the Supplier, and
+Registered & Corporate Office: Unit No101, First Floor, Windsor, Village Kole Kalyan Off CST Road, Vidyanagari
+Marg, Santacruz (East), Mumbai, Maharashtra-400098, India | Ph: +91 70284 93885 CIN:
+U35100MH2024PTC436016 Email:complianceofficer@indigrid.co.in | www.indigrid.co.in
+Page 8 of 12
+Rajasthan BESS Private Limited 
+ 
+ Maharashtra  
+22.2.6 Non-performance caused by, or connected with, the Affected Partys negligence or
+22.2.7 Intentional acts, errors or omissions, failure to comply with applicable law and breach of, or default under
+this Order.
+22.2.8 Notwithstanding anything to the contrary, Parties acknowledge that they are aware of all Applicable Laws
+resulting from and relating to COVID-19. Accordingly, in addition to agreeing to comply with all such Applicable
+Laws, they shall not be entitled to claim COVID-19 as preventing, affecting or delaying the performance of their
+respective obligations hereunder unless such Applicable Laws are more onerous than the Applicable Laws as on
+date of this Order. Further, in the event of imposition of more onerous Applicable Laws or than those existing as
+on date of this Order, which prevents the Parties from carrying out their obligations as agreed herein, Affected
+Party shall be entitled to claim COVID-19 as preventing, affecting or delaying the performance of their respective
+obligations hereunder.
+22.3 Effect of Force Majeure Event
+22.3.1 Neither party shall be considered to be in breach of its obligations under the Order To the extent that
+performance of such obligation is prevented by any circumstances of Force Majeure, which arises after the
+Effective Date of the Order, provided that notice to this effect (as mentioned in the following paragraph) is given
+to the other Party, as soon as possible and in no event beyond the time period mentioned in the following
+paragraph. Each Party shall be responsible for the respective costs incurred by such Party as a result of or in
+relation to the occurrence of an event of Force Majeure or in respect of the actions to be taken by the Affected
+Party in respect thereof.
+22.4 In case the Supplier wants to claim the occurrence of Force Majeure, the party shall send a notice within 7
+seven days from the occurrence of the said event and once the said event ceases shall submit all the relevant
+documents and evidences (duly certified by the relevant Government departments and / or government authorities)
+which proves and establishes the occurrence of such event of the Force Majeure.  Notwithstanding anything
+contained in this Clause, in case the relief under this clause is claimed by the Supplier, on the basis of which
+Buyer claims relief with competent authority under Transmission Service Agreement between the Buyer and its
+beneficiaries, however the same is rejected either fully or in part by the competent authority then Supplier will
+not be entitled to the relief under this Clause to the extent it is rejected/denied. The parties agree to put in best
+efforts, jointly while seeking relief with the Competent Authority.
+22.5 Affected Party shall resume its obligations under the Order, as soon as such Force Majeure event ceases to
+exist.
+22.6 The Delivery Schedule may be extended by a period of time not more than the period for which of
+interruption caused by an event of Force Majeure. However, if the Force Majeure continues for a prolonged
+period, then the Buyer shall have the right to terminate this Order in accordance with the terms hereof and make
+payment to the Supplier for the Material(s) supplied in accordance with this Order and to the satisfaction of the
+Buyer, as on the date of such termination.
+22.7 Neither Party shall claim compensation for the loss thus incurred or any compensation from the other Party
+on account of an event of Force Majeure.
+23. Suspension: -
+23.1 The Buyer may, at any time, suspend and reinstate execution of performance the whole or any part of the
+scope of supply by the Supplier. Any orders for suspension or reinstatement of the scope of supply will be issued
+by the Buyer to the Supplier in writing. The time for completion of the supplies may be extended for a period
+equal to duration of the suspension or as agreed between Buyer and Supplier.
+23.2 Upon the issuance of instructions to suspend the supplies as contemplated in this Order, the Supplier shall:
+23.2.1 Suspend the scope of supply to the extent specified by the Buyer and store, preserve, protect and
+otherwise secure the Material(s)/part thereof affected, to the extent reasonably practicable in the circumstances.
+23.2.2 Place no further subcontracts or purchase orders for materials, services, with respect to those parts of the
+material, supply of which is suspended, except to the extent expressly requested by the Buyer.
+23.2.3 Use all reasonable endeavours to suspend the scope of supply, on the most favourable terms available to
+the Supplier including all subcontracts and purchase orders, to the extent affected by such suspension and
+otherwise to minimize the additional costs associated with such suspension.
+23.3 At any time after such suspension, the Buyer may instruct the Supplier to resume execution of the
+suspended scope of supply. Upon receipt of such instructions, the Supplier shall examine the material affected by
+the suspension and shall remedy any deterioration or defect in or loss of such material that may have occurred
+during the suspension. The suspended supply shall resume as expeditiously as possible after the receipt of such
+withdrawal of suspension notice in accordance with the instructions of the Buyer in respect of the resumption.
+Registered & Corporate Office: Unit No101, First Floor, Windsor, Village Kole Kalyan Off CST Road, Vidyanagari
+Marg, Santacruz (East), Mumbai, Maharashtra-400098, India | Ph: +91 70284 93885 CIN:
+U35100MH2024PTC436016 Email:complianceofficer@indigrid.co.in | www.indigrid.co.in
+Page 9 of 12
+Rajasthan BESS Private Limited 
+ 
+ Maharashtra  
+23.4 If the suspension of supply is not attributable to Suppliers default, the Buyer shall  pay to the Supplier, the
+price for the scope of supply completed against submission of documentary evidence and proof to the satisfaction
+of the Buyer. In case any payment for the supplies in progress is being considered, the Parties shall mutually
+agree upon the same, after taking into account any possibility of utilization of the WIP material by either of the
+Party.
+24. Termination: -
+24.1 In the event of a default or failure to comply with the terms, conditions, Material Specifications and
+requirements set out under this Order by the Supplier, to the Buyers satisfaction, the Buyer may, without
+prejudice to any other rights it may possess under this Order, give a notice to the Supplier stating the nature of
+the default and require the Supplier to remedy the same. If the Supplier fails to remedy or to take steps to
+remedy the same within fourteen (14) days of its receipt of such notice, then the Buyer may terminate the Order
+forthwith on account of cause.
+24.2 The Buyer also reserves the right to terminate the Order with a written notice of fourteen (14) days, in the
+event:
+(i) Supplier is unable to pay its debts or becomes insolvent, or an order or resolution is passed for dissolution /
+winding up of the Supplier.
+(ii) Supplier fails to comply with Applicable Laws, or obtain / maintain any license, consent, permit, approval
+required under Applicable Laws for performance of this Order.
+(iii)Supplier assigns this Order or any of its rights and obligations hereunder to a third party without prior written
+consent of the Buyer.
+(iv)Supplier fails to meet the representations and warranties made by it under this Order or they are found to be
+false or incorrect.
+24.2.1 Upon receipt of the notice of termination the Supplier shall at its own cost, either immediately or upon
+such date as is specified in the notice of termination,
+24.2.1.1 Cease all further supplies, except for such supply as the Buyer may specify in the notice of termination
+for the sole purpose of protecting that part of the supplies already executed. Terminate all Subcontracts, except
+those to be assigned to the Buyer pursuant to paragraph below.
+24.2.1.2 deliver to the Buyer the parts of the supplies executed by the Supplier up to the date of termination.
+24.2.1.3 assign to the Buyer all right, title and benefit of the Supplier in respect of the supplied items as on the
+date of termination and as may be required by the Buyer pursuant to any Subcontracts executed between the
+Supplier and its Sub Suppliers.
+24.2.1.4 Deliver to the Buyer all documents prepared by the Supplier as on the date of termination in connection
+with the material and return all Buyers documents including copies thereof in its possession.
+24.2.2 The Supplier shall be entitled to be paid such amount towards the Order Value, for which the supply of
+Material(s) has been completed in accordance with this Order and to the satisfaction of the Buyer, as of the date
+of termination. Any sums due to the Buyer from the Supplier accruing prior to the date of termination shall be
+deducted from the amount to be paid to the Supplier under this Order.
+24.2.3 The Buyer may terminate this Order for convenience at any point of time by giving the Supplier a written
+notice of thirty (30) days, to this effect. Clauses 24.2.1 and 24.2.2 shall apply mutatis mutandis to give effect
+to such termination under this Clause.
+24.2.4 Surviving Obligations: - The termination of this Order:
+(i)        shall not relieve the Supplier of its obligations with respect to the confidentiality of information as set
+forth in this Order,
+(ii) shall not relieve the Supplier of any obligation herein that is expressly stated to survive termination,
+(iii) shall not limit or affect any provision of the Order expressly limiting the liability of the Supplier or releasing
+the Supplier from any liability, and
+(iv) shall not relieve the Supplier of any obligations or liabilities relating to indemnity, warranty and latent defect
+arising under this Order on or before the date of such termination.
+25. Arbitration: -
+25.1 The Parties hereto shall endeavour to settle all disputes and differences relating to and/or arising out of this
+Order amicably.
+Registered & Corporate Office: Unit No101, First Floor, Windsor, Village Kole Kalyan Off CST Road, Vidyanagari
+Marg, Santacruz (East), Mumbai, Maharashtra-400098, India | Ph: +91 70284 93885 CIN:
+U35100MH2024PTC436016 Email:complianceofficer@indigrid.co.in | www.indigrid.co.in
+Page 10 of 12
+Rajasthan BESS Private Limited 
+ 
+ Maharashtra  
+25.2 In the event of the Parties failing to resolve any dispute amicably the same shall be referred to and finally
+resolved by arbitration in accordance with Arbitration & Conciliation Act 1996 with amendments thereto. Each
+Party shall be entitled to nominate an arbitrator and the two arbitrators so nominated shall jointly nominate a third
+presiding arbitrator. The arbitrators shall give a reasoned award.
+25.3 The venue and seat of arbitration shall be Delhi and the language of the arbitration shall be English.
+25.4 The Parties agree that any arbitration award shall be final and binding upon the Parties.
+25.5 The Parties agree that, to the extent practicable, the Supplier shall continue to carry out its obligations
+under the Order even in the event a dispute is referred to arbitration. It is further clarified that Buyer shall be
+entitled to retain any sum or portion of Order Value, which has become due and payable, for any unfinished
+supplies or any subject matter under arbitration.
+26. Governing Law and Jurisdiction: -
+26.1 This Order shall be construed in accordance with and governed by the laws of India and the courts of
+Delhi, India shall have exclusive jurisdiction with respect to this Order.
+27. General: -
+27.1 Any amendment to this Order will only be with the mutual agreement of the Parties, shall be in writing and
+signed by authorized representatives of the Parties.
+27.2 This Order does not in any respect make the Supplier an agent or a partner of the Buyer, nor does it
+establish any joint venture between the Parties or authorize the Supplier to transact any business in the name of
+the Buyer or to incur any obligation or liability for or on behalf of the Buyer.
+27.3 Each Party confirms that it is acting on its own behalf and not for the benefit of any other Party.
+Notwithstanding this, all affiliates of Buyer and IndiGrid Investment Managers Limited (IIML) shall be entitled to
+benefit from this Order.  If any provision or part-provision of this Order is or becomes invalid, illegal or
+unenforceable, it shall be deemed modified to the minimum extent necessary to make it valid, legal and
+enforceable. If such modification is not possible, the relevant provision or part-provision shall be deemed deleted.
+Any modification to or deletion of a provision or part-provision under this Clause shall only take effect in
+accordance with Clause 27.1 of this Order and shall not affect the validity and enforceability of the rest of this
+Order.
+27.4 Failure or delay of either Party at any time to require performance of any provision of this Order shall not
+affect the right to require full performance thereof at any time thereafter and the waiver by either Party of a
+breach of any provision shall not be taken or held to be a waiver of any subsequent breach thereof or as
+nullifying or restricting the effectiveness of such provision.
+27.5 This Order, including and together with any related annexures, sets forth the entire agreement and
+understanding between the Parties with respect to the subject matter hereof and supersedes and cancels all
+earlier discussions and negotiations of understandings, agreements, representations, warranties, whether written or
+oral, express or implied, between them excluding any specific assumptions to price as maybe notified by the
+Buyer to the Supplier.
+28. General Covenants # Compliance with Code of Ethical Business Conduct
+28.1 The Supplier acknowledges that by virtue of this engagement with the Group (as defined in Code of Ethical
+Business Conduct), it shall be considered an "Associate" in terms of the Code of Ethical Business Conduct ("Code
+of Conduct"). As an Associate, it acknowledges the responsibilities and commitment towards adherence with the
+principles and provisions set out in the Code of Conduct including the Anti-Corruption Compliance Policy.
+Accordingly, it hereby agrees and undertakes, as follows:
+(a) It shall strictly comply with the provisions of Code of Conduct, without any exception.
+(b) It shall maintain highest level of ethical business conduct and integrity while fulfilling each of its commitments.
+Registered & Corporate Office: Unit No101, First Floor, Windsor, Village Kole Kalyan Off CST Road, Vidyanagari
+Marg, Santacruz (East), Mumbai, Maharashtra-400098, India | Ph: +91 70284 93885 CIN:
+U35100MH2024PTC436016 Email:complianceofficer@indigrid.co.in | www.indigrid.co.in
+Page 11 of 12
+Rajasthan BESS Private Limited 
+ 
+ Maharashtra  
+(c) It shall duly adhere with all applicable laws, regulations, and Groups standards, including but not limited to
+those pertaining to anti-bribery and anti-corruption, anti-money laundering, economic sanctions, labour and
+industrial relations obligations, environment, health and safety, intellectual property rights, data privacy and all
+other applicable laws, regulations and Group standards.
+ (d) Any business transactions with the Group (i.e., contracts and payments) shall be documented accurately and
+promptly.
+ (e) It shall duly comply in good faith with provisions of the contracts entered with any Group entity.
+ (f) It shall not participate in any unethical collusion, arrangement or practices with any Group entity director,
+officer, employee, consultant or any other partner of the Group. Further, it shall not indulge in any unlawful or
+unethical behavior or attempt to induce anyone unlawfully for the benefit of any Group entity.
+ (g) It shall periodically disclose to Rajasthan BESS Private Limited any relationships and/or affiliations with any
+Group entity director, officer, employee, consultant, or their Relatives (defined hereinafter), in a formal letter to
+Rajasthan BESS Private Limited which shall be submitted to the Compliance Officer.
+ ("Relatives" as used herein shall mean relatives of upto third degree, by consanguinity, affinity or legal adoption,
+including, the directors, officers, employees, or consultants spouse, parents, children (and their spouses), siblings
+(and their spouses), nieces and nephews (limited to children of a brother or sister) (and their spouses),
+grandparents, aunts and uncles (limited to brothers or sisters of a parent); and a domestic partner and his
+relatives of upto third degree, by consanguinity, affinity or legal adoption).
+(h) It shall duly comply with the policy and rules relating to gifts or hospitality as envisaged in the Code of
+Conduct and as notified from time to time.
+Kindly return us the duplicate copy of this Order duly countersigned and stamped as a token of your acceptance.
+Thanking you,
+Yours faithfully,
+Rajasthan BESS PrivateLimited
+Authorized SignatoryUnconditionally Accepted:
+MARC ELECTRO INFRA PVT LTD
+Authorized Signatory
+Registered & Corporate Office: Unit No101, First Floor, Windsor, Village Kole Kalyan Off CST Road, Vidyanagari
+Marg, Santacruz (East), Mumbai, Maharashtra-400098, India | Ph: +91 70284 93885 CIN:
+U35100MH2024PTC436016 Email:complianceofficer@indigrid.co.in | www.indigrid.co.in
+Page 12 of 12

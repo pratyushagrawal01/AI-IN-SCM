@@ -22,20 +22,8 @@ def render_main_area():
     # DOCUMENT SELECTION
     if st.session_state.doc is None:
         with st.expander("📤 Upload PDFs for This Chat", expanded=True):
-            uploaded_files = st.file_uploader("Upload PDFs (e.g., RFP and Quotations)", type="pdf", accept_multiple_files=True, help="Upload one or more PDFs to analyze in this chat")
+            uploaded_files = st.file_uploader("Upload PDFs", type="pdf", accept_multiple_files=True, help="Upload one or more PDFs to analyze")
             if uploaded_files:
-                pdf_types = []
-                for i, uploaded in enumerate(uploaded_files):
-                    pdf_type = st.selectbox(f"Type for {uploaded.name}", ["Quotation", "RFP"], index=0 if i > 0 else 1, key=f"type_{i}")
-                    pdf_types.append(pdf_type)
-                
-                rfp_count = pdf_types.count("RFP")
-                if rfp_count > 1:
-                    st.error("Only one PDF can be marked as RFP. Please adjust and try again.")
-                elif rfp_count == 0:
-                    st.warning("No RFP selected. Defaulting the first PDF to RFP.")
-                    pdf_types[0] = "RFP"
-                
                 if st.button("Confirm Upload", key="confirm_upload"):
                     chat_name = f"Chat_{len(st.session_state.chats) + 1}".strip()
                     chat_dir = os.path.join("chats", chat_name)
@@ -53,11 +41,6 @@ def render_main_area():
                         st.session_state.all_docs.append(os.path.join(chat_dir, f"doc_{i+1}_extracted.txt"))
                         st.session_state.all_pdfs.append(pdf_path)
                         st.session_state.all_pdf_names.append(uploaded.name)
-                    
-                    rfp_index = pdf_types.index("RFP")
-                    st.session_state.all_docs.insert(0, st.session_state.all_docs.pop(rfp_index))
-                    st.session_state.all_pdfs.insert(0, st.session_state.all_pdfs.pop(rfp_index))
-                    st.session_state.all_pdf_names.insert(0, st.session_state.all_pdf_names.pop(rfp_index))
                     
                     st.success(f"{len(uploaded_files)} PDF(s) uploaded and extracted!")
                     
