@@ -1,0 +1,35 @@
+{
+    "file": "chats\\Chat_1\\doc_1_extracted.txt",
+    "pdf": "chats\\Chat_1\\doc_1.pdf",
+    "all_docs": [
+        "chats\\Chat_1\\doc_1_extracted.txt"
+    ],
+    "all_pdfs": [
+        "chats\\Chat_1\\doc_1.pdf"
+    ],
+    "all_pdf_names": [
+        "Termination kit supply.pdf"
+    ],
+    "messages": [
+        {
+            "role": "user",
+            "content": "order value "
+        },
+        {
+            "role": "assistant",
+            "content": "<strong>4. Order Value:</strong><br><br>4. Order Value:<br>4.1 The total value for the above-mentioned scope of supply and deliverables under this Order shall be INR<br>67,73,200/-(Rupees Sixty-seven Lakh Seventy-Three Thousand Two Hundred Only) (hereinafter referred to as<br>\"Order Value\"). The above <span class='highlight'>Order Value </span>inclusive Goods and Service Tax (GST).  The <span class='highlight'>Order Value </span>is inclusive of<br>Goods and Services Tax (GST).<br>4.2 The <span class='highlight'>Order Value </span>is based on basic Unit Price as mentioned hereof, which shall remain firm for the entire<br>period during which the Material(s) are supplied and the scope of supply and deliverables under this Order are<br>completed / performed. No escalation on any account shall be permitted for the aforesaid period or till the end of<br>the extended period, if any."
+        },
+        {
+            "role": "user",
+            "content": "insurance"
+        },
+        {
+            "role": "assistant",
+            "content": "<strong>12. <span class='highlight'>Insurance</span>:</strong><br><br>12. <span class='highlight'>Insurance</span>: -<br>12.1 The Supplier shall at his own expense take out and maintain in effect, during the performance of this Order,<br>the <span class='highlight'>insurance</span>s set forth below in the sums and with the deductibles and other conditions specified herein.<br>12.2 The Supplier will arrange for transit <span class='highlight'>insurance</span> of material included under the scope of this Order, to cover<br>all risks during the Material transit (regardless of mode of transportation) between Suppliers manufacturing facility<br>/ warehouse and designated delivery location.<br>12.3 The <span class='highlight'>insurance</span> shall be on full replacement value basis (including transit and <span class='highlight'>insurance</span> cost) covering entire<br>material value with no escalation cost.<br>12.4 The Buyer shall also be named as co-insured under the <span class='highlight'>insurance</span> policy taken out by the Supplier except<br>for third party liability.<br>12.5 Notwithstanding the <span class='highlight'>insurance</span> requirements mentioned above, it would be the Suppliers responsibility to take<br>and maintain adequate <span class='highlight'>insurance</span> cover. If at any point of time during execution of the Order, the <span class='highlight'>insurance</span><br>policies are found to be inadequate, the Supplier shall take fresh <span class='highlight'>insurance</span> policies meeting aforesaid<br>requirements, to the satisfaction of the Buyer.<br>12.6 Any risk of loss or damage to the Material(s), material and/or spares during loading, transportation and until<br>safe delivery of the Material(s) in accordance with this Order, at the designated delivery location, shall be to the<br>account of the Supplier. The Supplier shall be responsible for preference of all claims and make good the<br>damages or loss by way of repairs and/or replacement of Material(s) damaged or lost. Notwithstanding the extent<br>of <span class='highlight'>insurance</span>s cover and the amount of claim available from the underwriter, the Supplier shall be liable to make<br>good the full replacement/rectification of all the Material(s) and shall ensure their availability as per ordered<br>requirement without any additional financial liability to the Buyer."
+        }
+    ],
+    "tables": [],
+    "comparison_table": null,
+    "pinned": false,
+    "backend_key": "Chat_1"
+}

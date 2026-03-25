@@ -1,8 +1,4 @@
-
-
 import os
-
-
 import streamlit as st
 from AI_Module import run_query
 from Text_Extraction import extract_and_save
