@@ -483,7 +483,7 @@ period, then the Buyer shall have the right to terminate this Order in accordanc
 payment to the Supplier for the Material(s) supplied in accordance with this Order and to the satisfaction of the
 Buyer, as on the date of such termination.
 22.7 Neither Party shall claim compensation for the loss thus incurred or any compensation from the other Party
-on account of an event of Force Majeure.  
+on account of an event of Force Majeure.
 23. Suspension: -
 23.1 The Buyer may, at any time, suspend and reinstate execution of performance the whole or any part of the
 scope of supply by the Supplier. Any orders for suspension or reinstatement of the scope of supply will be issued

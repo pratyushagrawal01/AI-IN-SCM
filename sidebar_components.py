@@ -1,3 +1,5 @@
+
+
 import os
 
 
@@ -72,7 +74,7 @@ def render_sidebar():
     # RENAME CHAT
     if st.session_state.rename_target:
         with st.sidebar.expander("✏️ Rename Chat", expanded=True):
-            new_name = st.text_input("New name", value=st.session_state.rename_target, help="Enter a new name for the chat")
+            new_name = st.text_input("New name", value=st.session_state.rename_target, help="Enter a new name for the chat").strip()
             col1, col2 = st.columns(2)
             with col1:
                 if st.button("Save", key="save_rename"):
@@ -90,12 +92,12 @@ def render_sidebar():
                         save_chat(new_name, st.session_state.chats[new_name])
                         if st.session_state.current_chat == old:
                             st.session_state.current_chat = new_name
-                    st.session_state.rename_target = None
-                    st.rerun()
-            with col2:
-                if st.button("Cancel", key="cancel_rename"):
-                    st.session_state.rename_target = None
-                    st.rerun()
+                        st.session_state.rename_target = None
+                        st.rerun()
+                with col2:
+                    if st.button("Cancel", key="cancel_rename"):
+                        st.session_state.rename_target = None
+                        st.rerun()
     
     # DELETE CHAT
     if st.session_state.delete_target:

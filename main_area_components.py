@@ -13,7 +13,7 @@ def render_main_area():
     st.markdown("<div id='top'></div>", unsafe_allow_html=True)
     
     # TITLE
-    st.title("📄 Document Clause Chatbot")
+    st.title("📄 Contract Chatbot")
     if st.session_state.current_chat:
         st.subheader(f"💬 Active Chat: {st.session_state.current_chat}")
     else:
@@ -37,7 +37,7 @@ def render_main_area():
                     pdf_types[0] = "RFP"
                 
                 if st.button("Confirm Upload", key="confirm_upload"):
-                    chat_name = f"Chat_{len(st.session_state.chats) + 1}"
+                    chat_name = f"Chat_{len(st.session_state.chats) + 1}".strip()
                     chat_dir = os.path.join("chats", chat_name)
                     os.makedirs(chat_dir, exist_ok=True)
                     

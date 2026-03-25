@@ -1,10 +1,21 @@
 import re
+import os
 from functools import lru_cache
 
 @lru_cache(maxsize=1)
 def load_document(file_name):
+    if not os.path.exists(file_name):
+        print(f"Warning: File not found: {file_name}")
+        return ""
+    
     if not file_name.endswith('.txt'):
         file_name += '.txt'
+    
+    # Check if .txt version exists
+    if not os.path.exists(file_name):
+        print(f"Warning: Extracted text not found: {file_name}")
+        return ""
+        
     with open(file_name, "r", encoding="utf-8") as f:
         return f.read()
 

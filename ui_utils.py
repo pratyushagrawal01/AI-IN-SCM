@@ -28,6 +28,7 @@ def initialize_session_state():
 
 def save_chat(chat_name, chat_data):
     """Save chat data to disk."""
+    chat_name = chat_name.strip()
     chat_dir = os.path.join("chats", chat_name)
     os.makedirs(chat_dir, exist_ok=True)
     metadata_path = os.path.join(chat_dir, "metadata.json")
@@ -38,8 +39,9 @@ def load_chats():
     """Load all chats from disk into session state."""
     chats_dir = "chats"
     if os.path.exists(chats_dir):
-        for chat_name in os.listdir(chats_dir):
-            chat_dir = os.path.join(chats_dir, chat_name)
+        for chat_name_raw in os.listdir(chats_dir):
+            chat_name = chat_name_raw.strip()
+            chat_dir = os.path.join(chats_dir, chat_name_raw)
             if os.path.isdir(chat_dir):
                 metadata_path = os.path.join(chat_dir, "metadata.json")
                 if os.path.exists(metadata_path):
